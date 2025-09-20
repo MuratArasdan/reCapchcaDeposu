@@ -6,15 +6,6 @@
     }
 }
 
-
-curl -sS https://getcomposer.org/installer | php
-
-
-php composer.phar install
-
-require 'vendor/autoload.ph
-
-
 {
     "name": "your-vendor-name/package-name",
     "description": "A short description of what your package does",
@@ -24,7 +15,3 @@ require 'vendor/autoload.ph
     }
 }
 
-
-composer validate
-
-composer.json
